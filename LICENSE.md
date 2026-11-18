@@ -76,7 +76,7 @@ As Vozes são fornecidas como estão, sem garantia de qualquer tipo. O Titular n
 
 ## 12. Lei e foro
 
-Esta licença segue as leis da República Federativa do Brasil. Fica eleito o foro da comarca de [CIDADE] para resolver qualquer disputa.
+Esta licença segue as leis da República Federativa do Brasil. Fica eleito o foro da comarca de São Leopoldo, Rio Grande do Sul, para resolver qualquer disputa.
 
 ## 13. Contato
 
@@ -162,7 +162,7 @@ The Voices are provided as is, without warranty of any kind. To the extent permi
 
 ## 12. Governing law and venue
 
-This license is governed by the laws of the Federative Republic of Brazil. The courts of [CITY] have jurisdiction over any dispute.
+This license is governed by the laws of the Federative Republic of Brazil. The courts of São Leopoldo, Rio Grande do Sul, Brazil have jurisdiction over any dispute.
 
 ## 13. Contact
 
