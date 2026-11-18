@@ -20,7 +20,7 @@ A voice needs the engine release to run.
 
 ## License
 
-- **Voices:** the Ritmelli Voices License, in [LICENSE.md](LICENSE.md). Portuguese is the binding text; English is a translation. Each voice release states which version applies to it.
-- **Engine:** third-party components under their own licenses: ContentVec (MIT, auspicious3000/contentvec) and FCPE (MIT, CNChTu/FCPE).
+- **Voices:** the Ritmelli Voices License, in [LICENSE.md](LICENSE.md). Portuguese is the binding text; English is a translation. Each voice release states which version applies to it. The voice weights are fine-tuned from the RVC v2 pretrained model (MIT, RVC-Project/Retrieval-based-Voice-Conversion-WebUI); its license ships in each voice release as `LICENSE-rvc.txt`.
+- **Engine:** third-party components under their own licenses: ContentVec (MIT, auspicious3000/contentvec) and FCPE (MIT, CNChTu/FCPE). Their licenses ship in the engine release as `LICENSE-contentvec.txt` and `LICENSE-fcpe.txt`.
 
 Credit when publishing content made with a voice: "voice: Mina (Ritmelli)" or "voice: Lira (Ritmelli)".
