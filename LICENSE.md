@@ -80,7 +80,7 @@ Esta licença segue as leis da República Federativa do Brasil. Fica eleito o fo
 
 ## 13. Contato
 
-Pedidos de autorização e de licença paga: [CONTATO].
+Pedidos de autorização e de licença paga: christianbehlingaraujo@gmail.com.
 
 ---
 
@@ -166,4 +166,4 @@ This license is governed by the laws of the Federative Republic of Brazil. The c
 
 ## 13. Contact
 
-Permission and paid license requests: [CONTACT].
+Permission and paid license requests: christianbehlingaraujo@gmail.com.
