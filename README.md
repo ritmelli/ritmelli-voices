@@ -1,0 +1,26 @@
+# Ritmelli Voices
+
+Voice models of the Ritmelli sisters, for real-time voice conversion in Vitrola's voice pedal.
+
+| Voice | Who | Current release |
+|---|---|---|
+| **Mina** | the older sister, the lower voice | `mina-v0.1` (model `v7_50e`) |
+| **Lira** | the younger sister, the higher voice | `lira-v0.1` (model `v11_50e`) |
+
+Both characters are adults.
+
+## Releases
+
+The files live in the Releases, not in the git tree.
+
+- **`engine-vX.Y`**: files shared by every voice. Contains `contentvec_n22080_fp16.onnx` (content encoder), `fcpe_fp16.onnx` (pitch detector), `ref.npz` (resampling and mel constants) and `meta.json` (engine parameters).
+- **`mina-vX.Y`**, **`lira-vX.Y`**: one voice each. Contains the weights (`.pth`, 32 kHz), the real-time export (`*_encp_q334_fp16.onnx` and `*_dec_q32_fp16.onnx`), `config.json`, `model_info.json` and the `LICENSE.md` that applies to that release.
+
+A voice needs the engine release to run.
+
+## License
+
+- **Voices:** the Ritmelli Voices License, in [LICENSE.md](LICENSE.md). Portuguese is the binding text; English is a translation. Each voice release states which version applies to it.
+- **Engine:** third-party components under their own licenses: ContentVec (MIT, auspicious3000/contentvec) and FCPE (MIT, CNChTu/FCPE).
+
+Credit when publishing content made with a voice: "voice: Mina (Ritmelli)" or "voice: Lira (Ritmelli)".
