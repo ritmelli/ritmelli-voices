@@ -6,7 +6,7 @@ A versão em português é a que vale. A versão em inglês, mais abaixo, é tra
 
 ## 1. Definições
 
-- **Titular:** [NOME DO TITULAR], dono da marca Ritmelli e dos direitos sobre as Vozes e as Personagens.
+- **Titular:** Christian Behling Araujo, pessoa física, dono da marca Ritmelli e dos direitos sobre as Vozes e as Personagens.
 - **Vozes:** os modelos de voz Mina e Lira (arquivos de pesos e arquivos auxiliares) que o Titular distribui em uma Release que declare esta licença.
 - **Saída:** todo áudio gerado com as Vozes.
 - **Personagens:** os nomes Mina, Lira e Ritmelli, os desenhos, a aparência e a persona delas.
@@ -92,7 +92,7 @@ This is a translation. The Portuguese version above is the binding one.
 
 ## 1. Definitions
 
-- **Licensor:** [LICENSOR NAME], owner of the Ritmelli brand and of the rights to the Voices and the Characters.
+- **Licensor:** Christian Behling Araujo, an individual, owner of the Ritmelli brand and of the rights to the Voices and the Characters.
 - **Voices:** the Mina and Lira voice models (weight files and supporting files) that the Licensor distributes in a Release that states this license.
 - **Output:** any audio generated with the Voices.
 - **Characters:** the names Mina, Lira and Ritmelli, their artwork, appearance and persona.
