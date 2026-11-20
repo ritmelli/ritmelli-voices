@@ -5,7 +5,7 @@ Voice models of the Ritmelli sisters, for real-time voice conversion in Vitrola'
 | Voice | Who | Current release |
 |---|---|---|
 | **Mina** | the older sister, the lower voice | `mina-v0.2` (model `m3_50e`) |
-| **Lira** | the younger sister, the higher voice | `lira-v0.1` (model `v11_50e`) |
+| **Lira** | the younger sister, the higher voice | `lira-v0.2` (model `l3_50e`) |
 
 Both characters are adults.
 
