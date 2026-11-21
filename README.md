@@ -14,7 +14,7 @@ Both characters are adults.
 The files live in the Releases, not in the git tree.
 
 - **`engine-vX.Y`**: files shared by every voice. Contains `contentvec_n22080_fp16.onnx` (content encoder), `fcpe_fp16.onnx` (pitch detector), `ref.npz` (resampling and mel constants) and `meta.json` (engine parameters).
-- **`mina-vX.Y`**, **`lira-vX.Y`**: one voice each. Contains the weights (`.pth`, 32 kHz), the real-time export (`*_encp_q334_fp16.onnx` and `*_dec_q32_fp16.onnx`), `config.json`, `model_info.json`, `voz.json` and the `LICENSE.md` that applies to that release. `voz.json` holds the pitch the voice sounds right at (`tom_hz`, in Hz, set by ear): Ritmelli shifts each speaker's own median pitch to it, so a new voice ships its own.
+- **`mina-vX.Y`**, **`lira-vX.Y`**: one voice each. Contains the weights (`.pth`, 32 kHz), the real-time export (`*_encp_q334_fp16.onnx` and `*_dec_q32_fp16.onnx`), `config.json`, `model_info.json`, `voz.json` and the `LICENSE.md` that applies to that release. `voz.json` holds the pitch the voice sounds right at (`tom_hz`, in Hz, set by ear): Ritmelli measures where the speaker's voice sits (the 20th percentile of their pitch while they talk, which barely moves when they get excited) and shifts it to `tom_hz`, so a new voice ships its own.
 
 A voice needs the engine release to run.
 
