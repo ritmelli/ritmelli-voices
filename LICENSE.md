@@ -1,6 +1,6 @@
 # Licença das Vozes Ritmelli
 
-Versão 0.1 (rascunho para revisão jurídica)
+Versão 0.2 (rascunho para revisão jurídica)
 
 A versão em português é a que vale. A versão em inglês, mais abaixo, é tradução.
 
@@ -14,7 +14,7 @@ A versão em português é a que vale. A versão em inglês, mais abaixo, é tra
 
 ## 2. Aceite
 
-Ao baixar, instalar ou usar as Vozes, você aceita esta licença. Na Vitrola, o aceite acontece no primeiro download da voz.
+Ao baixar, instalar ou usar as Vozes, você aceita esta licença. No Ritmelli, o aceite acontece na instalação, antes de as Vozes serem baixadas.
 
 ## 3. O que você pode fazer de graça
 
@@ -86,7 +86,7 @@ Pedidos de autorização e de licença paga: christianbehlingaraujo@gmail.com.
 
 # Ritmelli Voices License
 
-Version 0.1 (draft for legal review)
+Version 0.2 (draft for legal review)
 
 This is a translation. The Portuguese version above is the binding one.
 
@@ -100,7 +100,7 @@ This is a translation. The Portuguese version above is the binding one.
 
 ## 2. Acceptance
 
-By downloading, installing or using the Voices, you accept this license. In Vitrola, acceptance happens on the first download of the voice.
+By downloading, installing or using the Voices, you accept this license. In Ritmelli, acceptance happens during installation, before the Voices are downloaded.
 
 ## 3. What you can do for free
 
